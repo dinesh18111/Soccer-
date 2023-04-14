@@ -1,0 +1,45 @@
+.welcome:hover {
+	border-color: #0383d2;
+	cursor: pointer;
+	border-width: 2px;
+}
+
+.welcome-background {
+	background-image: url(/assets/image/baseball1.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.welcome-card {
+	background-color: rgba(255, 255, 255, 0.85);
+	border-radius: 0.2rem;
+}
+
+.signup-background {
+	background-image: url(/assets/image/bb2.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.dashboard-background {
+	background-image: url(/assets/image/bb5.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.gq-background {
+	background-image: url(/assets/image/bb3.jpeg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.solo-background {
+	background-image: url(/assets/image/bb4.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
